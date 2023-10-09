@@ -1,0 +1,14 @@
+{
+  "name": "week04_exercise",
+  "version": "1.0.0",
+  "description": "Introduction to postman, GitHub command lines, and JSON package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Ryan Lee",
+  "license": "ISC"
+}
