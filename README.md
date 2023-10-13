@@ -16,9 +16,15 @@ At the end of this course, students will reliably demostrate the ability to:
 
 | Week  | Content                                         |
 | :---: | :---                                            |
-| 1     | - Administrative & Course Outline
-          - Introduction to Full Stack and MERN Stack
-          - Review of JavaScript & ES6 features
-          - Enhanced Object Literals
-| 2     |                                                 |
+| 1     | - Administrative & Course Outline               |
+|       | - Introduction to Full Stack and MERN Stack     |
+|       | - Review of JavaScript & ES6 features           |
+|       | - Enhanced Object Literals                      |
+| ----  | ----------------------------------------------- |
+| 2     | - Arrow Functions                               |
+|       | - Classes/Subclasses                            |
+|       | - Callbacks                                     |
+|       | - Promises                                      |
+|       | - Async/await                                   |
+|       |                                                 |
 
