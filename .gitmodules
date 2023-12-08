@@ -1,0 +1,9 @@
+[submodule "week09-intro-to-reactjs"]
+	path = week09-intro-to-reactjs
+	url = https://github.com/RyunKL/week09-intro-to-reactjs
+[submodule "week10-reactjs-forms-and-events"]
+	path = week10-reactjs-forms-and-events
+	url = https://github.com/RyunKL/week10-reactjs-forms-and-events
+[submodule "week11-reactjs-axios-api-fetch"]
+	path = week11-reactjs-axios-api-fetch
+	url = https://github.com/RyunKL/week11-reactjs-axios-api-fetch
