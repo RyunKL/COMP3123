@@ -14,17 +14,3 @@ At the end of this course, students will reliably demostrate the ability to:
  * Store and retrieve data to a MongoDB using Mongoose ODM
  * Implement and consume REST APIs with Node.js and Express
 
-| Week  | Content                                         |
-| :---: | :---                                            |
-| 1     | - Administrative & Course Outline               |
-|       | - Introduction to Full Stack and MERN Stack     |
-|       | - Review of JavaScript & ES6 features           |
-|       | - Enhanced Object Literals                      |
-| ----  | ----------------------------------------------- |
-| 2     | - Arrow Functions                               |
-|       | - Classes/Subclasses                            |
-|       | - Callbacks                                     |
-|       | - Promises                                      |
-|       | - Async/await                                   |
-|       |                                                 |
-
